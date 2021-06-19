@@ -1,4 +1,4 @@
-# join-our-team
+# Join Our Team
 ## THE 62 YEARS JOURNEY OF LISP
 ![Lisp_Journey_62_years](https://user-images.githubusercontent.com/81928799/120730594-7d638e80-c4ea-11eb-860a-b7654224acc2.gif)
 ## How to join the journey?
