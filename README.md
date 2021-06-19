@@ -2,7 +2,7 @@
 ## THE 62 YEARS JOURNEY OF LISP
 ![Lisp_Journey_62_years](https://user-images.githubusercontent.com/81928799/120730594-7d638e80-c4ea-11eb-860a-b7654224acc2.gif)
 ## How to join the journey?
-### *If you're just cruising around Github, that means you're aware of programming languages!*
+### *If you're just cruising around GitHub, that means you're aware of programming languages!*
 ### **Duh!**
 ### *But what are you doing not joining the team of the second-oldest high-level programming language in widespread use today?*
 
